@@ -1,1 +1,2 @@
 # DataAnalysis
+#### The Data Analysis project is more of an EDA( Exploratory Data Analysis) that focuses more on Observing and exploring data and keeps asking the question "Why?", The Dataset of a Superstore found on Kaggle had a lot more insights than I thought could be Found. The Project doesn't have a clear objective, but the images I've particularly shared are the most basic and Interesting Insights I have found.
